@@ -1,0 +1,17 @@
+.cssImages {
+    height: 650px !important;
+    object-fit: fill;
+}
+
+@media (max-width: 767.98px) {
+    .cssImages {
+        height: 350px !important;
+        object-fit: fill;
+    } 
+}
+@media (max-width: 575.98px) {
+    .cssImages {
+        height: 180px !important;
+        object-fit: fill;
+    }
+}
